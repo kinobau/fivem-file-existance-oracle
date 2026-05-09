@@ -5,9 +5,9 @@ using CitizenFX.Core;
 
 namespace MyResource.Client
 {
-    public class FileOraclePoc : BaseScript
+    public class FileProbePoc : BaseScript
     {
-        public FileOraclePoc()
+        public FileProbePoc()
         {
             string path = @"C:\test.txt";
             bool exists;
