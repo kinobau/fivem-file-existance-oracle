@@ -4,6 +4,8 @@
 
   This method was originally discovered/found and made by me.
 
+  anticheats will most likely start using this to detect common cheat paths and files.
+
   ## Background
 
   FiveM client-side C# resources run in a custom Mono with CoreCLR Security Transparency Level 2 + IL Verification. The
