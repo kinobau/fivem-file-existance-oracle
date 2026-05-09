@@ -2,6 +2,8 @@
 
   A file-existence side channel in FiveM's C# / Mono sandbox via `Assembly.LoadFrom` exception types.
 
+  This method was originally discovered/found and made by me.
+
   ## Background
 
   FiveM client-side C# resources run in a custom Mono with CoreCLR Security Transparency Level 2 + IL Verification. The
